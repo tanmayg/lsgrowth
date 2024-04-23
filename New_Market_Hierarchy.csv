@@ -1,0 +1,250 @@
+﻿Region,Zone,Sub_Zone,Market,Market_Code,Market_SortOrder,Country,Country_Code
+Growth,META,AFI,Africa,AFI,13,Algeria,DZ
+Growth,META,AFI,Africa,AFI,13,Angola,AO
+Growth,META,AFI,Africa,AFI,13,Benin,BJ
+Growth,META,AFI,Africa,AFI,13,Botswana,BW
+Growth,META,AFI,Africa,AFI,13,Burkina Faso,BF
+Growth,META,AFI,Africa,AFI,13,Burundi,BI
+Growth,META,AFI,Africa,AFI,13,Cameroon,CM
+Growth,META,AFI,Africa,AFI,13,Cape Verde,CV
+Growth,META,AFI,Africa,AFI,13,Central African Republic,CF
+Growth,META,AFI,Africa,AFI,13,Chad,TD
+Growth,META,AFI,Africa,AFI,13,Comoros,KM
+Growth,META,AFI,Africa,AFI,13,Congo,CG
+Growth,META,AFI,Africa,AFI,13,Congo (Democratic Republic of the),CD
+Growth,META,AFI,Africa,AFI,13,Côte D'Ivoire,CI
+Growth,META,AFI,Africa,AFI,13,Djibouti,DJ
+Growth,META,AFI,Africa,AFI,13,Egypt,EG
+Growth,META,AFI,Africa,AFI,13,Equatorial Guinea,GQ
+Growth,META,AFI,Africa,AFI,13,Eritrea,ER
+Growth,META,AFI,Africa,AFI,13,Ethiopia,ET
+Growth,META,AFI,Africa,AFI,13,Gabon,GA
+Growth,META,AFI,Africa,AFI,13,Gambia,GM
+Growth,META,AFI,Africa,AFI,13,Ghana,GH
+Growth,META,AFI,Africa,AFI,13,Guinea,GN
+Growth,META,AFI,Africa,AFI,13,Guinea-Bissau,GW
+Growth,META,AFI,Africa,AFI,13,Kenya,KE
+Growth,META,AFI,Africa,AFI,13,Lesotho,LS
+Growth,META,AFI,Africa,AFI,13,Liberia,LR
+Growth,META,AFI,Africa,AFI,13,Libya,LY
+Growth,META,AFI,Africa,AFI,13,Madagascar,MG
+Growth,META,AFI,Africa,AFI,13,Malawi,MW
+Growth,META,AFI,Africa,AFI,13,Mali,ML
+Growth,META,AFI,Africa,AFI,13,Mauritania,MR
+Growth,META,AFI,Africa,AFI,13,Mauritius,MU
+Growth,META,AFI,Africa,AFI,13,Morocco,MA
+Growth,META,AFI,Africa,AFI,13,Mozambique,MZ
+Growth,META,AFI,Africa,AFI,13,Namibia,NA
+Growth,META,AFI,Africa,AFI,13,Niger,NE
+Growth,META,AFI,Africa,AFI,13,Nigeria,NG
+Growth,META,AFI,Africa,AFI,13,Rwanda,RW
+Growth,META,AFI,Africa,AFI,13,Saint Helena,SH
+Growth,META,AFI,Africa,AFI,13,Sao Tome and Principe,ST
+Growth,META,AFI,Africa,AFI,13,Senegal,SN
+Growth,META,AFI,Africa,AFI,13,Seychelles,SC
+Growth,META,AFI,Africa,AFI,13,Sierra Leone,SL
+Growth,META,AFI,Africa,AFI,13,Somalia,SO
+Growth,META,AFI,Africa,AFI,13,South Africa,ZA
+Growth,META,AFI,Africa,AFI,13,South Sudan,SS
+Growth,META,AFI,Africa,AFI,13,Sudan,SD
+Growth,META,AFI,Africa,AFI,13,Swaziland,SZ
+Growth,META,AFI,Africa,AFI,13,Tanzania,TZ
+Growth,META,AFI,Africa,AFI,13,Togo,TG
+Growth,META,AFI,Africa,AFI,13,Tunisia,TN
+Growth,META,AFI,Africa,AFI,13,Uganda,UG
+Growth,META,AFI,Africa,AFI,13,Western Sahara,EH
+Growth,META,AFI,Africa,AFI,13,Zambia,ZM
+Growth,META,AFI,Africa,AFI,13,Zimbabwe,ZW
+Growth,APA,APA,APAC,APA,14,American Samoa,AS
+Growth,APA,APA,APAC,APA,14,Australia,AU
+Growth,APA,APA,APAC,APA,14,British Indian Ocean Territory,IO
+Growth,APA,APA,APAC,APA,14,Brunei Darussalam,BN
+Growth,APA,APA,APAC,APA,14,Cambodia,KH
+Growth,APA,APA,APAC,APA,14,Christmas Island,CX
+Growth,APA,APA,APAC,APA,14,Cocos (Keeling) Islands,CC
+Growth,APA,APA,APAC,APA,14,Cook Islands,CK
+Growth,APA,APA,APAC,APA,14,Fiji,FJ
+Growth,APA,APA,APAC,APA,14,Guam,GU
+Growth,APA,APA,APAC,APA,14,Heard Island and McDonald Islands,HM
+Growth,APA,APA,APAC,APA,14,Indonesia,ID
+Growth,APA,APA,APAC,APA,14,Kiribati,KI
+Growth,APA,APA,APAC,APA,14,Korea Democratic Peoples Republic,KP
+Growth,APA,APA,APAC,APA,14,Korea Republic of,KR
+Growth,APA,APA,APAC,APA,14,Lao People's Democratic Republic,LA
+Growth,APA,APA,APAC,APA,14,Malaysia,MY
+Growth,APA,APA,APAC,APA,14,Maldives,MV
+Growth,APA,APA,APAC,APA,14,Marshall Islands,MH
+Growth,APA,APA,APAC,APA,14,Micronesia,FM
+Growth,APA,APA,APAC,APA,14,Myanmar,MM
+Growth,APA,APA,APAC,APA,14,Nauru,NR
+Growth,APA,APA,APAC,APA,14,New Zealand,NZ
+Growth,APA,APA,APAC,APA,14,Niue,NU
+Growth,APA,APA,APAC,APA,14,Norfolk Island,NF
+Growth,APA,APA,APAC,APA,14,Northern Mariana Islands,MP
+Growth,APA,APA,APAC,APA,14,Pakistan,PK
+Growth,APA,APA,APAC,APA,14,Palau,PW
+Growth,APA,APA,APAC,APA,14,Papua New Guinea,PG
+Growth,APA,APA,APAC,APA,14,Philippines,PH
+Growth,APA,APA,APAC,APA,14,Pitcairn,PN
+Growth,APA,APA,APAC,APA,14,Samoa,WS
+Growth,APA,APA,APAC,APA,14,Singapore,SG
+Growth,APA,APA,APAC,APA,14,Solomon Islands,SB
+Growth,APA,APA,APAC,APA,14,South Georgia / South Sandwich Isls,GS
+Growth,APA,APA,APAC,APA,14,Thailand,TH
+Growth,APA,APA,APAC,APA,14,Timor-Leste,TL
+Growth,APA,APA,APAC,APA,14,Tokelau,TK
+Growth,APA,APA,APAC,APA,14,Tonga,TO
+Growth,APA,APA,APAC,APA,14,Tuvalu,TV
+Growth,APA,APA,APAC,APA,14,U.S. Minor Outlying Islands,UM
+Growth,APA,APA,APAC,APA,14,Vanuatu,VU
+Growth,APA,APA,APAC,APA,14,Viet Nam,VN
+Europe,WE,BNL,Benelux,BNL,5,Belgium,BE
+Europe,WE,BNL,Benelux,BNL,5,Luxembourg,LU
+Europe,WE,BNL,Benelux,BNL,5,Netherlands,NL
+Europe,CEE,CEE,Central Europe,CEE,8,Albania,AL
+Europe,CEE,CEE,Central Europe,CEE,8,Bosnia and Herzegovina,BA
+Europe,CEE,CEE,Central Europe,CEE,8,Bulgaria,BG
+Europe,CEE,CEE,Central Europe,CEE,8,Croatia,HR
+Europe,CEE,CEE,Central Europe,CEE,8,Czech Republic,CZ
+Europe,CEE,CEE,Central Europe,CEE,8,Estonia,EE
+Europe,CEE,CEE,Central Europe,CEE,8,Hungary,HU
+Europe,CEE,CEE,Central Europe,CEE,8,Latvia,LV
+Europe,CEE,CEE,Central Europe,CEE,8,Lithuania,LT
+Europe,CEE,CEE,Central Europe,CEE,8,Macedonia,MK
+Europe,CEE,CEE,Central Europe,CEE,8,Moldova,MD
+Europe,CEE,CEE,Central Europe,CEE,8,Montenegro,ME
+Europe,CEE,CEE,Central Europe,CEE,8,Poland,PL
+Europe,CEE,CEE,Central Europe,CEE,8,Romania,RO
+Europe,CEE,CEE,Central Europe,CEE,8,Serbia,RS
+Europe,CEE,CEE,Central Europe,CEE,8,Slovakia,SK
+Europe,CEE,CEE,Central Europe,CEE,8,Slovenia,SI
+Europe,CEE,CEE,Central Europe,CEE,8,Ukraine,UA
+Europe,WE,DAC,DACH,DAC,3,Austria,AT
+Europe,WE,DAC,DACH,DAC,3,Germany,DE
+Europe,WE,DAC,DACH,DAC,3,Liechtenstein,LI
+Europe,WE,DAC,DACH,DAC,3,Switzerland,CH
+Europe,WE,FRA,France,FRA,4,France,FR
+Europe,WE,FRA,France,FRA,4,French Guiana,GF
+Europe,WE,FRA,France,FRA,4,French Polynesia,PF
+Europe,WE,FRA,France,FRA,4,French Southern Territories,TF
+Europe,WE,FRA,France,FRA,4,Guadeloupe,GP
+Europe,WE,FRA,France,FRA,4,Martinique,MQ
+Europe,WE,FRA,France,FRA,4,Mayotte,YT
+Europe,WE,FRA,France,FRA,4,Monaco,MC
+Europe,WE,FRA,France,FRA,4,New Caledonia,NC
+Europe,WE,FRA,France,FRA,4,Réunion,RE
+Europe,WE,FRA,France,FRA,4,Saint Barthélemy,BL
+Europe,WE,FRA,France,FRA,4,Saint Martin (French part),MF
+Europe,WE,FRA,France,FRA,4,Saint Pierre and Miquelon,PM
+Europe,WE,FRA,France,FRA,4,Saint Vincent and the Grenadines,VC
+Europe,WE,FRA,France,FRA,4,Wallis and Futuna Islands,WF
+GRC,GRC,GRC,Greater China,GRC,17,China,CN
+GRC,GRC,GRC,Greater China,GRC,17,Hong Kong,HK
+GRC,GRC,GRC,Greater China,GRC,17,Macao,MO
+GRC,GRC,GRC,Greater China,GRC,17,Taiwan,TW
+Europe,WE,IBE,Iberia,IBE,10,Andorra,AD
+Europe,WE,IBE,Iberia,IBE,10,Gibraltar,GI
+Europe,WE,IBE,Iberia,IBE,10,Portugal,PT
+Europe,WE,IBE,Iberia,IBE,10,Spain,ES
+Europe,WE,IIG,IIG,IIG,7,Cyprus,CY
+Europe,WE,IIG,IIG,IIG,7,Greece,GR
+Europe,WE,IIG,IIG,IIG,7,Holy See (Vatican City State),VA
+Europe,WE,IIG,IIG,IIG,7,Israel,IL
+Europe,WE,IIG,IIG,IIG,7,Italy,IT
+Europe,WE,IIG,IIG,IIG,7,Malta,MT
+Europe,WE,IIG,IIG,IIG,7,San Marino,SM
+Growth,ISC,ISC,Indian Subcontinent,ISC,16,Bangladesh,BD
+Growth,ISC,ISC,Indian Subcontinent,ISC,16,Bhutan,BT
+Growth,ISC,ISC,Indian Subcontinent,ISC,16,India,IN
+Growth,ISC,ISC,Indian Subcontinent,ISC,16,Nepal,NP
+Growth,ISC,ISC,Indian Subcontinent,ISC,16,Sri Lanka,LK
+Growth,JPN,JPN,Japan,JPN,15,Japan,JP
+Growth,LAT,LAT,Latam,LAT,2,Anguilla,AI
+Growth,LAT,LAT,Latam,LAT,2,Antarctica,AQ
+Growth,LAT,LAT,Latam,LAT,2,Antigua and Barbuda,AG
+Growth,LAT,LAT,Latam,LAT,2,Argentina,AR
+Growth,LAT,LAT,Latam,LAT,2,Aruba,AW
+Growth,LAT,LAT,Latam,LAT,2,Bahamas,BS
+Growth,LAT,LAT,Latam,LAT,2,Barbados,BB
+Growth,LAT,LAT,Latam,LAT,2,Belize,BZ
+Growth,LAT,LAT,Latam,LAT,2,Bermuda,BM
+Growth,LAT,LAT,Latam,LAT,2,Bolivia,BO
+Growth,LAT,LAT,Latam,LAT,2,Bonaire Saint Eustatius and Saba,BQ
+Growth,LAT,LAT,Latam,LAT,2,Brazil,BR
+Growth,LAT,LAT,Latam,LAT,2,Cayman Islands,KY
+Growth,LAT,LAT,Latam,LAT,2,Chile,CL
+Growth,LAT,LAT,Latam,LAT,2,Colombia,CO
+Growth,LAT,LAT,Latam,LAT,2,Costa Rica,CR
+Growth,LAT,LAT,Latam,LAT,2,Cuba,CU
+Growth,LAT,LAT,Latam,LAT,2,Curacao,CW
+Growth,LAT,LAT,Latam,LAT,2,Dominica,DM
+Growth,LAT,LAT,Latam,LAT,2,Dominican Republic,DO
+Growth,LAT,LAT,Latam,LAT,2,Ecuador,EC
+Growth,LAT,LAT,Latam,LAT,2,El Salvador,SV
+Growth,LAT,LAT,Latam,LAT,2,Falkland Islands (Malvinas),FK
+Growth,LAT,LAT,Latam,LAT,2,Grenada,GD
+Growth,LAT,LAT,Latam,LAT,2,Guatemala,GT
+Growth,LAT,LAT,Latam,LAT,2,Guyana,GY
+Growth,LAT,LAT,Latam,LAT,2,Haiti,HT
+Growth,LAT,LAT,Latam,LAT,2,Honduras,HN
+Growth,LAT,LAT,Latam,LAT,2,Jamaica,JM
+Growth,LAT,LAT,Latam,LAT,2,Mexico,MX
+Growth,LAT,LAT,Latam,LAT,2,Montserrat,MS
+Growth,LAT,LAT,Latam,LAT,2,Nicaragua,NI
+Growth,LAT,LAT,Latam,LAT,2,Panama,PA
+Growth,LAT,LAT,Latam,LAT,2,Paraguay,PY
+Growth,LAT,LAT,Latam,LAT,2,Peru,PE
+Growth,LAT,LAT,Latam,LAT,2,Puerto Rico,PR
+Growth,LAT,LAT,Latam,LAT,2,Saint Kitts and Nevis,KN
+Growth,LAT,LAT,Latam,LAT,2,Saint Lucia,LC
+Growth,LAT,LAT,Latam,LAT,2,Sint Maarten (Dutch part),SX
+Growth,LAT,LAT,Latam,LAT,2,Suriname,SR
+Growth,LAT,LAT,Latam,LAT,2,Trinidad and Tobago,TT
+Growth,LAT,LAT,Latam,LAT,2,Turks and Caicos Islands,TC
+Growth,LAT,LAT,Latam,LAT,2,Uruguay,UY
+Growth,LAT,LAT,Latam,LAT,2,Venezuela,VE
+Growth,LAT,LAT,Latam,LAT,2,Virgin Islands (British),VG
+Growth,LAT,LAT,Latam,LAT,2,Virgin Islands (U.S.),VI
+Growth,META,MET,Middle East & Turkey,MET,11,Afghanistan,AF
+Growth,META,MET,Middle East & Turkey,MET,11,Bahrain,BH
+Growth,META,MET,Middle East & Turkey,MET,11,Iran,IR
+Growth,META,MET,Middle East & Turkey,MET,11,Iraq,IQ
+Growth,META,MET,Middle East & Turkey,MET,11,Jordan,JO
+Growth,META,MET,Middle East & Turkey,MET,11,Kuwait,KW
+Growth,META,MET,Middle East & Turkey,MET,11,Lebanon,LB
+Growth,META,MET,Middle East & Turkey,MET,11,Oman,OM
+Growth,META,MET,Middle East & Turkey,MET,11,Palestine State of,PS
+Growth,META,MET,Middle East & Turkey,MET,11,Qatar,QA
+Growth,META,MET,Middle East & Turkey,MET,11,Saudi Arabia,SA
+Growth,META,MET,Middle East & Turkey,MET,11,Syrian Arab Republic,SY
+Growth,META,MET,Middle East & Turkey,MET,11,Turkey,TR
+Growth,META,MET,Middle East & Turkey,MET,11,United Arab Emirates,AE
+Growth,META,MET,Middle East & Turkey,MET,11,Yemen,YE
+Europe,WE,NOR,Nordics,NOR,9,Aland Islands,AX
+Europe,WE,NOR,Nordics,NOR,9,Bouvet Island,BV
+Europe,WE,NOR,Nordics,NOR,9,Denmark,DK
+Europe,WE,NOR,Nordics,NOR,9,Faroe Islands,FO
+Europe,WE,NOR,Nordics,NOR,9,Finland,FI
+Europe,WE,NOR,Nordics,NOR,9,Greenland,GL
+Europe,WE,NOR,Nordics,NOR,9,Iceland,IS
+Europe,WE,NOR,Nordics,NOR,9,Norway,NO
+Europe,WE,NOR,Nordics,NOR,9,Svalbard and Jan Mayen,SJ
+Europe,WE,NOR,Nordics,NOR,9,Sweden,SE
+NAR,NAM,NAM,North America,NAM,1,Canada,CA
+NAR,NAM,NAM,North America,NAM,1,United States,US
+Growth,RCA,RCA,"Russia, Central Asia",RCA,12,Armenia,AM
+Growth,RCA,RCA,"Russia, Central Asia",RCA,12,Azerbaijan,AZ
+Growth,RCA,RCA,"Russia, Central Asia",RCA,12,Belarus,BY
+Growth,RCA,RCA,"Russia, Central Asia",RCA,12,Georgia,GE
+Growth,RCA,RCA,"Russia, Central Asia",RCA,12,Kazakhstan,KZ
+Growth,RCA,RCA,"Russia, Central Asia",RCA,12,Kyrgyzstan,KG
+Growth,RCA,RCA,"Russia, Central Asia",RCA,12,Mongolia,MN
+Growth,RCA,RCA,"Russia, Central Asia",RCA,12,Russian Federation,RU
+Growth,RCA,RCA,"Russia, Central Asia",RCA,12,Tajikistan,TJ
+Growth,RCA,RCA,"Russia, Central Asia",RCA,12,Turkmenistan,TM
+Growth,RCA,RCA,"Russia, Central Asia",RCA,12,Uzbekistan,UZ
+Europe,WE,UKI,UK & Ireland,UKI,6,Guernsey,GG
+Europe,WE,UKI,UK & Ireland,UKI,6,Ireland,IE
+Europe,WE,UKI,UK & Ireland,UKI,6,Isle of Man,IM
+Europe,WE,UKI,UK & Ireland,UKI,6,Jersey,JE
+Europe,WE,UKI,UK & Ireland,UKI,6,United Kingdom,GB
