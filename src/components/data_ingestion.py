@@ -10,7 +10,7 @@ from dataclasses import dataclass
 
 @dataclass
 class DataIngestionConfig:
-    input_files: dict = None
+    input_files: dict
     reference_files: dict
 
 class DataIngestion:
@@ -50,6 +50,7 @@ class DataIngestion:
             return read_dfs
         
         except Exception as e:
+            logging.exception(f"!!!!! Error occurred during execution {e}")
             raise CustomException(e, sys)
 
         
@@ -77,4 +78,27 @@ class DataIngestion:
             return in_df, ref_df
         
         except Exception as e:
+            logging.exception(f"!!!!! Error occurred during execution {e}")
             raise CustomException(e, sys)
+
+
+if __name__ == "__main__":
+
+    # Define input and reference files
+    input_files = {
+        'cdo': {'file_name': ['C:/Users/310223340/OneDrive - Philips/MarketingAnalytics/LEAD_SCORING/SYSTEM LEAD SCORING/Data/Eloqua/CDO Data/CDO_Reference.csv',
+                            'C:/Users/310223340/OneDrive - Philips/MarketingAnalytics/LEAD_SCORING/SYSTEM LEAD SCORING/Data/Eloqua/CDO Data/2023/MQL CDO Data for lead scoring 2023 Jan to June.csv',
+                            'C:/Users/310223340/OneDrive - Philips/MarketingAnalytics/LEAD_SCORING/SYSTEM LEAD SCORING/Data/Eloqua/CDO Data/2023/MQL CDO Data for lead scoring 2023 Jul to Dec.csv'
+                            ]},
+        'opportunity': {'file_name': 'C:/Users/310223340/OneDrive - Philips/MarketingAnalytics/LEAD_SCORING/SYSTEM LEAD SCORING/Data/E2E_MQL_to_Oppotunity_Growth.xlsx'}
+    }
+    reference_files = {
+        'contacts': {'file_name': 'C:/Users/310223340/OneDrive - Philips/MarketingAnalytics/LEAD_SCORING/SYSTEM LEAD SCORING/Data/Contacts_Reference.csv'},
+        'mrkt_ref': {'file_name': 'C:/Users/310223340/OneDrive - Philips/MarketingAnalytics/LEAD_SCORING/SYSTEM LEAD SCORING/Data/New_Market_Hierarchy.csv'},
+        'acct_ref': {'file_name': 'C:/Users/310223340/OneDrive - Philips/MarketingAnalytics/LEAD_SCORING/SYSTEM LEAD SCORING/Data/SFDC_Growth_Account_Reference_X360.csv'},
+        'prch_hist': {'file_name': 'C:/Users/310223340/OneDrive - Philips/MarketingAnalytics/LEAD_SCORING/SYSTEM LEAD SCORING/Data/CDO_Purchase_History_Raw_Growth.csv'},
+    }
+
+    ingestion_config = DataIngestionConfig(input_files=input_files, reference_files=reference_files)
+    data_ingestion = DataIngestion(ingestion_config)
+    input_dfs, reference_dfs = data_ingestion.initiate_data_ingestion(is_training=True)

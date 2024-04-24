@@ -128,6 +128,7 @@ ENV/
 env.bak/
 venv.bak/
 vegrowth/
+logs/
 
 # Spyder project settings
 .spyderproject
